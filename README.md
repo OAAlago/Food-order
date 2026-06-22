@@ -33,17 +33,17 @@ The dataset used for this analysis was gotten from the Kaggle.com website. It co
   2. Payment method with highest delivery fee
       - insights; cash on delivery
 
-  3. payment method with the highest order value
-     - insights; cash on delivery
-
+  3. Delivery time by highest refunds
+      - insights; 76 minutes is the time with the highest refunds
+        
   4. Contribution of discounts and offers to order value
      - insights; 10% discount contributed the highest
 
   5. payment method with the highest processing fee
       - insights; Cash on delivery
 
-  6. Delivery time by highest refunds
-      - insights; 76 minutes is the time with the highest refunds
+  6. payment method with the highest order value
+     - insights; cash on delivery
 
 
      ### Recommendations
@@ -60,9 +60,12 @@ The dataset used for this analysis was gotten from the Kaggle.com website. It co
      ### Visualization
 1. Delivery performance and efficiency
 
+<img width="395" height="230" alt="Screenshot 2026-06-22 130817" src="https://github.com/user-attachments/assets/f28be9db-52a0-4259-b7e2-8690e2a2ccee" />
 
 
 2. Assess revenue costs and profitability
+
+<img width="365" height="242" alt="Screenshot 2026-06-22 130719" src="https://github.com/user-attachments/assets/a0dde7e4-a467-4ba0-8908-1142983b05ed" />
 
    
   
